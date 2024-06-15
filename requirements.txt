@@ -1,0 +1,7 @@
+tensorflow
+nltk
+stopwords
+numpy
+keras
+pandas
+scikit-learn
