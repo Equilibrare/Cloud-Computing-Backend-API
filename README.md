@@ -1,6 +1,8 @@
 # Cloud-Computing-Backend-API
 
-## Logo App
+
 <p align="center">
-<img src="https://github.com/Equilibrare/Equilibrare/blob/main/Tak%20berjudul121_20240616171602.png" alt="Logo Perusahaan" width="350"/>
+<img src="https://github.com/Equilibrare/Cloud-Computing-Backend-API/blob/main/Architecture%20API%20Equilibrare.png" alt="Architecture" width="850"/>
 </p>
+
+<p align="center">Architecture</p>
